@@ -1,6 +1,6 @@
-# Awesome Project Build with TypeORM
+# Typescript REST API using TypeORM
 
-Steps to run this project:
+## Steps to run this project:
 
 1. Run `npm i` command
 2. Setup database settings inside `ormconfig.json` file
