@@ -1,4 +1,4 @@
-# Typescript REST Api using TypeORM
+# Typescript REST API using TypeORM
 
 ## Steps to run this project:
 
